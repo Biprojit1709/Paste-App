@@ -1,12 +1,22 @@
-# React + Vite
+# PASTE-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Transform Ideas Instantly, Share Effortlessly Everywhere*
 
-Currently, two official plugins are available:
+![last commit](https://img.shields.io/github/last-commit/your-username/paste-app?style=flat-square)
+![javascript](https://img.shields.io/badge/javascript-89.1%25-blue?style=flat-square)
+![languages](https://img.shields.io/github/languages/count/your-username/paste-app?style=flat-square)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### _Built with the tools and technologies:_
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router)
