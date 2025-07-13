@@ -1,9 +1,8 @@
 # Paste App 🌱
+[![Live Site](https://img.shields.io/badge/Live-PasteApp-blue?style=flat-square&logo=vercel)](https://paste-app-seven-green.vercel.app/)
 
 > Transform ideas instantly, share effortlessly across devices.
 
-![last commit](https://img.shields.io/github/last-commit/your-username/paste-app?style=flat-square)
-![language count](https://img.shields.io/github/languages/count/your-username/paste-app?style=flat-square)
 ![javascript badge](https://img.shields.io/badge/built%20with-JavaScript-yellow?style=flat-square)
 
 ---
