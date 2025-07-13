@@ -1,5 +1,5 @@
 # Paste App 🌱
-[![Live Site](https://img.shields.io/badge/Live-PasteApp-blue?style=flat-square&logo=vercel)](https://paste-app-seven-green.vercel.app/)
+
 
 > Transform ideas instantly, share effortlessly across devices.
 
